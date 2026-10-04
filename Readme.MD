@@ -1,1 +1,4 @@
+ HEAD
 Version from branch A
+Version from branch B
+
