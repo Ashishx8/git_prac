@@ -1,2 +1,3 @@
 some notes
 new change line 1
+aaded 3rd line on github directly
